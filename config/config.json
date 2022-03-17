@@ -1,0 +1,20 @@
+{
+  "development": {
+    "url": "postgres://ozcddmod:65uAhw3vE9evJYgPJH8CC-fw-oWcvMFh@balarama.db.elephantsql.com/ozcddmod",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
