@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/Rahilaam/imageboard-server#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
     "pg": "^8.7.3",
     "sequelize": "^6.17.0",
     "sequelize-cli": "^6.4.1"
